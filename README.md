@@ -20,6 +20,7 @@
 - Informes
 - 3 Usuarios
 - Instalación en su computador, funciona sin internet
+- - Descarga del Software: Dirigete a "Code" en la parte superior derecha y luego selecciona "Download ZIP" 
 
 
 
